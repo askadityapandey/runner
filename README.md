@@ -40,10 +40,6 @@ Follow these steps to get the project running on your local machine.
 - CSS
 - JavaScript
 
-## Contributing
-
-Contributions are welcome! Please check the [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
