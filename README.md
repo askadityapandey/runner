@@ -6,6 +6,9 @@ This is a fun project that allows you to play the starting piano of "Runaway" by
 
 - Play the piano sounds by clicking buttons.
 - Customize the project as per your needs.
+## Screenshot
+
+![runner ](https://github.com/askadityapandey/runner/assets/144938685/2843cc62-cb5c-4745-bc0b-9f45f87a3a4a)
 
 ## Getting Started
 
