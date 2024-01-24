@@ -1,0 +1,39 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48.96 50.12">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        fill: #58595b;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="19.64" cy="21.12" r="14.21" gradientTransform="translate(46.91 46.58) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="27.95" cy="23.04" r="14.86" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="22.36" cy="27.85" r="14.66" xlink:href="#radial-gradient"/>
+  </defs>
+  <polygon class="cls-1" points="25.5 39.31 41.83 11.61 12.71 11.61 14.51 14.17 36.06 14.17 21.54 39.31 25.5 39.31"/>
+  <polyline class="cls-2" points="32.85 14.17 23.6 30.19 22.2 32.6 7.28 7.76 5.08 11.61 21.54 39.31"/>
+  <polyline class="cls-3" points="23.6 30.19 12.71 11.61 41.83 11.61 39.76 7.27 7.28 7.76"/>
+  <text class="cls-4" transform="translate(20.38 24.34) rotate(1.86)">4</text>
+</svg>

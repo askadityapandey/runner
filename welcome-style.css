@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+.welcome-container {
+    /* margin-top: 25%; */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif; /* Replace 'Roboto' with the desired font */
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Pacifico', cursive; /* Replace 'Pacifico' with another font for the heading */
+    color: #ffffff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+}
+footer {
+    bottom: 0px;
+    text-align: center;
+    color: #fff;
+    margin: auto;  /* Center the footer horizontally */
+    padding: 20px;
+    
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+.tip {
+    margin-top: 20px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tip p {
+    margin: 0;
+    color: #333;
+}
+
+.tip strong {
+    font-weight: bold;
+}
+@media (max-width: 600px) {
+
+    .welcome-container {
+        margin-top: 55%;
+    }
+}
